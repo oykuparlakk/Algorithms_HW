@@ -1,0 +1,7 @@
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\bin\Debug\Algoritma2.exe.config
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\bin\Debug\Algoritma2.exe
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\bin\Debug\Algoritma2.pdb
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\obj\Debug\Algoritma2.csproj.AssemblyReference.cache
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\obj\Debug\Algoritma2.csproj.CoreCompileInputs.cache
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\obj\Debug\Algoritma2.exe
+C:\Users\oykup\source\repos\Algoritma2\Algoritma2\obj\Debug\Algoritma2.pdb
