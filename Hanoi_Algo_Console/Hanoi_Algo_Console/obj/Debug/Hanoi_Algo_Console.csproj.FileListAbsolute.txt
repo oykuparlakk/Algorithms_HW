@@ -1,0 +1,7 @@
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\bin\Debug\Hanoi_Algo_Console.exe.config
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\bin\Debug\Hanoi_Algo_Console.exe
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\bin\Debug\Hanoi_Algo_Console.pdb
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\obj\Debug\Hanoi_Algo_Console.csproj.AssemblyReference.cache
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\obj\Debug\Hanoi_Algo_Console.csproj.CoreCompileInputs.cache
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\obj\Debug\Hanoi_Algo_Console.exe
+C:\Users\oykup\source\repos\Hanoi_Algo_Console\Hanoi_Algo_Console\obj\Debug\Hanoi_Algo_Console.pdb
