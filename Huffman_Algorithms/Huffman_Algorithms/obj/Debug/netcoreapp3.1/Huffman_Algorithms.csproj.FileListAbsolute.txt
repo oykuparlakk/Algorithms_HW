@@ -1,0 +1,13 @@
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.exe
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.deps.json
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.runtimeconfig.json
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.runtimeconfig.dev.json
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.dll
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\bin\Debug\netcoreapp3.1\Huffman_Algorithms.pdb
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.csproj.AssemblyReference.cache
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.AssemblyInfoInputs.cache
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.AssemblyInfo.cs
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.dll
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.pdb
+C:\Users\oykup\source\repos\Huffman_Algorithms\Huffman_Algorithms\obj\Debug\netcoreapp3.1\Huffman_Algorithms.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oykup\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oykup\\.nuget\\packages"
+    ]
+  }
+}
